@@ -15,3 +15,7 @@ To run this code localy
 The main idea is to adopted ResNet architecture to multilayer perceptron. Other variations in n12_pepe_zoo.py
 
 ![alt text](./misc/model.png)
+
+## Train log
+Here is training log for all nets in ensemble. 20 iterations = 1 epoch.
+![alt text](./misc/log.png)
