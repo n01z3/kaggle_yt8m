@@ -10,3 +10,8 @@ To run this code localy
 * change paths in n00_localconfig.py
 * run n02_convert.py to convert *tfrecord files to *npz
 * run train_all.sh to train all nets
+
+## Net
+The main idea is to adopted ResNet architecture to multilayer perceptron. Other variations in n12_pepe_zoo.py
+
+![alt text](./misc/model.png)
